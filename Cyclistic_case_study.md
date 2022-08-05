@@ -43,14 +43,54 @@ casual riders would buy a membership, and how digital media could affect their m
 interested in analyzing the Cyclistic historical bike trip data to identify trends.
 
 ### 1.ASK:
-Moreno has assigned you the first question to answer: How do annual members and casual riders use Cyclistic bikes
-differently?
+Moreno has assigned you the first question to answer: <b>How do annual members and casual riders use Cyclistic bikes
+differently?</b>
 <br>Guiding questions:
 * What is the problem you are trying to solve?
 * How can your insights drive business decisions?
 
-<br>Key Task:
-* Identify the business task
-* Consider key stakeholders
+### 2.PREPARE:
+You will use Cyclistic’s historical trip data to analyze and identify trends.
+<br>The data consists of 12 csv files containing records from 1 year period (last 12 months) and has been made available by Motivate International Inc. under this <a href="https://ride.divvybikes.com/data-license-agreement">license</a>.
+<br>Guiding questions:
+* Where is your data located?
+* How is the data organized?
+* Are there issues with bias or credibility in this data? Does your data ROCCC?
+* How are you addressing licensing, privacy, security, and accessibility?
+* How did you verify the data’s integrity?
+* How does it help you answer your question?
+* Are there any problems with the data?
 
-<br>Business Task:
+### 3.PROCESS:
+Process data for analysis.
+<br>Guiding questions:
+* What tools are you choosing and why?
+* Have you ensured your data’s integrity?
+* What steps have you taken to ensure that your data is clean?
+* How can you verify that your data is clean and ready to analyze?
+* Have you documented your cleaning process so you can review and share those results?
+
+### 4.ANALYZE:
+<br>Guiding questions:
+* How should you organize your data to perform analysis on it?
+* Has your data been properly formatted?
+* What surprises did you discover in the data?
+* What trends or relationships did you find in the data?
+* How will these insights help answer your business questions?
+
+### 5.SHARE:
+<br>Guiding questions:
+How should you organize your data to perform analysis on it?
+* Has your data been properly formatted?
+* What surprises did you discover in the data?
+* What trends or relationships did you find in the data?
+* How will these insights help answer your business questions?
+
+### 6.ACT:
+<br>Guiding questions:
+What is your final conclusion based on your analysis?
+* How could your team and business apply your insights?
+* What next steps would you or your stakeholders take based on your findings?
+* Is there additional data you could use to expand on your findings?
+
+### 7.Conclusion and recommendations:
