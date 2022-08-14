@@ -43,32 +43,51 @@ casual riders would buy a membership, and how digital media could affect their m
 interested in analyzing the Cyclistic historical bike trip data to identify trends.
 
 ### 1.ASK:
-Moreno has assigned you the first question to answer: <b>How do annual members and casual riders use Cyclistic bikes
+<br><br>Business Task: <b>Design marketing strategies aimed at converting casual riders into annual members.</b>
+<br>Key Stakeholder are: <b>Lily Moreno</b>: The director of marketing and your manager, <b>Cyclistic marketing analytics</b> team and <b>Cyclistic executive team.</b>
+<br>Moreno has assigned you the first question to answer: <b>How do annual members and casual riders use Cyclistic bikes
 differently?</b>
+<br>
 <br>Guiding questions:
 * What is the problem you are trying to solve?
+<br>Understand How do annual members and casual riders use Cyclistic bikes differently?
 * How can your insights drive business decisions?
+<br>My insights would help to better understand the factors that make a customer an casual rider or a member. With this information, Cyclistic will produce a more effective and targeted marketing strategy in order to convert casual ussers into annual members.
 
 ### 2.PREPARE:
-You will use Cyclistic’s historical trip data to analyze and identify trends.
-<br>The data consists of 12 csv files containing records from 1 year period (last 12 months) and has been made available by Motivate International Inc. under this <a href="https://ride.divvybikes.com/data-license-agreement">license</a>.
 <br>Guiding questions:
 * Where is your data located?
+<br>The data has been made available by
+Motivate International Inc under this <a href="https://ride.divvybikes.com/data-license-agreement">license</a>
 * How is the data organized?
+<br>The data consists of 12 csv files containing records from 1 year period (last 12 months)
 * Are there issues with bias or credibility in this data? Does your data ROCCC?
+<br>This data ROCCC. Is <b>R</b>eliable, <b>O</b>riginal, <b>C</b>omprehensive, <b>C</b>urrent, and <b>C</b>ited.</br>
 * How are you addressing licensing, privacy, security, and accessibility?
+<br>This is public data that you can use to explore how different customer types are
+using Cyclistic bikes. But note that data-privacy issues prohibit you from using riders’ personally identifiable information. This
+means that you won’t be able to connect pass purchases to credit card numbers to determine if casual riders live in the
+Cyclistic service area or if they have purchased multiple single passes.
 * How did you verify the data’s integrity?
+<br>The integrity of the data was confirmed through an online investigation of the provider.
 * How does it help you answer your question?
+<br>This data helped me gain valuable insights into how Cyclistic customers behave.
 * Are there any problems with the data?
+<br>This data has some limitations on personal information. Data privacy issues prohibit you from using passengers' personally identifiable information
 
 ### 3.PROCESS:
 Process data for analysis.
 <br>Guiding questions:
 * What tools are you choosing and why?
+<br>For this case I would use Visual Studio for ETL processes, SQL Server Management Studio for quering and analyze data and Excel for a quick glimpse of data and summarize.
 * Have you ensured your data’s integrity?
+<br>Yes, data integrity was double checked.
 * What steps have you taken to ensure that your data is clean?
+<br>I checked for structural errors and typographical errors. Checked that the data types are appropriate for subsequent calculations. Remove duplicates and check for NULLS values or empty fields.
 * How can you verify that your data is clean and ready to analyze?
+<br>I contrasted clean data with the original raw dataset and did some calculations to check.
 * Have you documented your cleaning process so you can review and share those results?
+<br>Yes i did. There is a file in this repository with the most relevant code that I used to ensure data cleaning and analysis process.
 
 ### 4.ANALYZE:
 <br>Guiding questions:
