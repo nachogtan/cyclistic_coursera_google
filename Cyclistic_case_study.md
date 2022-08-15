@@ -92,18 +92,25 @@ Process data for analysis.
 ### 4.ANALYZE:
 <br>Guiding questions:
 * How should you organize your data to perform analysis on it?
+<br>I merged the 12 csv files into one table and cleaned all data.
 * Has your data been properly formatted?
+<br>All data was formatted correctly. The data types have been verified to be in the correct format for the required calculations.
 * What surprises did you discover in the data?
+<br>A quick glance was enough to understand the structure of the dataset. Therefore, getting insights from data was pretty straightforward. The key metrics for understanding how Cyclistic's customers behave were easy to spot in the data.
 * What trends or relationships did you find in the data?
+<br>There is a clear relationship between the time of year and the number of trips made by Cyclistic's customers. Even without access to the local weather database, we can assume that good weather is the main factor in increasing the number of trips. Both for occasional users and annual members.
 * How will these insights help answer your business questions?
+<br>During the weekdays, the annual members use the bicycle more than the casual members, so we can assume that they use it more to get to specific places such as work. While the casual ones use bicycles more on weekends, probably because they like to ride for pleasure or to visit different places in the city.
 
 ### 5.SHARE:
 <br>Guiding questions:
-How should you organize your data to perform analysis on it?
-* Has your data been properly formatted?
-* What surprises did you discover in the data?
-* What trends or relationships did you find in the data?
-* How will these insights help answer your business questions?
+* Were you able to answer the question of how annual members and casual riders use Cyclistic bikes differently?
+<br>Yes but, gather more information like Age, Gender, and weather data, among others could help us understand more deeply how each of this customers make their choices.
+* What story does your data tell?
+* How do your findings relate to your original question?
+* Who is your audience? What is the best way to communicate with them?
+* Can data visualization help you share your findings?
+* Is your presentation accessible to your audience?
 
 ### 6.ACT:
 <br>Guiding questions:
