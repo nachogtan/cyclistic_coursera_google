@@ -85,6 +85,9 @@ Members represent a <b>56,64%</b> against <b>43,36%</b> for Casual users.
 
 <img src="https://user-images.githubusercontent.com/98779367/184692520-68cd7af9-8bc9-48fb-b239-f2efaf1d1eee.png">
 
+This weekly bar chart shows us that members ride more than casual users on weekdays. On the other hand casual users ride more on weekends. This is probably because member use bikes to conmute to work or specific places while casual users tend to ride more for leisure and turism. On average, <b>members ride around 12:46</b> minutes while <b>casual users 25:00 minutes</b>.
+
+<img src="https://user-images.githubusercontent.com/98779367/184701222-a79bf5f6-1701-43da-987d-c2440a4eec70.png" width="685">
 
 
 
