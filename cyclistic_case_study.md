@@ -91,7 +91,7 @@ This weekly bar chart shows us that members ride more than casual users on weekd
 
 To add some context. Here's Cyclistic stations in chicago.
 
-<img src="https://user-images.githubusercontent.com/98779367/184936501-ff87e936-5899-469c-93be-53572113e8e1.png" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/98779367/184936501-ff87e936-5899-469c-93be-53572113e8e1.png">
 
 ### 6.Conclusion and recomendations:
 <b>There is a clear correlation in how members and casual use Cyclistic bicycles. The highest usage peaks are between July and October with a big drop in the winter months and rises again towards April, May and June.
