@@ -78,16 +78,29 @@ Members represent a <b>56,64%</b> against <b>43,36%</b> for Casual users.
 <img src="https://user-images.githubusercontent.com/98779367/184687697-5ae2878f-c678-4ec4-8e4e-4bd944a415d4.png">
 <br>
 <br>The most common bikes used for both casual and members are <b>classic bikes</b> with a total of <b>3189377</b>. We can also see that members do not use docked bikes.
-<br><img src="https://user-images.githubusercontent.com/98779367/184690684-aca35058-e580-4383-a80a-33e3fe4eefab.png" width="500" height="300">
-<img src="https://user-images.githubusercontent.com/98779367/184690913-b18a7290-653c-45ef-be36-81c49a786432.png" width="500" height="300">
+<br><img src="https://user-images.githubusercontent.com/98779367/184690684-aca35058-e580-4383-a80a-33e3fe4eefab.png" width="500" height="280">
+<img src="https://user-images.githubusercontent.com/98779367/184690913-b18a7290-653c-45ef-be36-81c49a786432.png" width="500" height="280">
 <br>
 <br>In this one-year period chart, we can see a clear correlation between members and casuals. We can see a <b>big pit fall in winter months</b>, which clearly shows us the <b>importance of weather</b>.
 
 <img src="https://user-images.githubusercontent.com/98779367/184692520-68cd7af9-8bc9-48fb-b239-f2efaf1d1eee.png">
 
-This weekly bar chart shows us that members ride more than casual users on weekdays. On the other hand casual users ride more on weekends. This is probably because member use bikes to conmute to work or specific places while casual users tend to ride more for leisure and turism. On average, <b>members ride around 12:46</b> minutes while <b>casual users 25:00 minutes</b>.
+This weekly bar chart shows us that members ride more than casual users on weekdays. On the other hand casual users ride more on weekends. This is probably because member use bikes to conmute to work or specific places while casual users tend to ride more for leisure and turism. On average, <b>members ride around 12:46</b> minutes while <b>casual users C</b>.
 
 <img src="https://user-images.githubusercontent.com/98779367/184701222-a79bf5f6-1701-43da-987d-c2440a4eec70.png" width="685">
 
+To add some context. Here's Cyclistic stations in chicago.
+
+<img src="https://user-images.githubusercontent.com/98779367/184936501-ff87e936-5899-469c-93be-53572113e8e1.png" width="500" height="500">
+
+### 6.Conclusion and recomendations:
+<b>There is a clear correlation in how members and casual use Cyclistic bicycles. The highest usage peaks are between July and October with a big drop in the winter months and rises again towards April, May and June.
+<br>Both casual and members prefer classic bikes followed by electric bikes. Docked bikes are only used by casual.
+<br>One difference we could find was in ride lenght, an average of 12:46 for members and 12:46 for casual.
+<br>Another clear diferrence is in the weekly usage. Overall, members uses more bikes than casuals durinng weekdays. On the other hand casuals uses more bikes than members on weekends.
+<br>Based on these findings we can propose three recommendations:
+*  Offer App benefits via geolocalization only available for annual members. Such as fitness recomendations, personalized diet, etc.
+*  A membership QR that only annual members can use to get discounts at partner healthy shops, bars and restaurants.
+*  A reward program for accumulated miles (merch, discounts, etc).</b>
 
 
