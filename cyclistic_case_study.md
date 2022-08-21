@@ -1,4 +1,7 @@
 # Case Study 1
+
+<img src="https://user-images.githubusercontent.com/98779367/185800346-f0f87a84-3473-45c1-94fd-3e546cdd76f6.png">
+
 ## How Does a Bike-Share Navigate Speedy Success?
 In this case study we are going to perform real world tasks of a junior data analyst at a fictional company called Cyclistic.
 <br>In order to answer the key business questions, we are going to follow the steps of the data analysis process proposed by Google: <b>Ask, Prepare, Process, Analyze, Share and Act</b>.
@@ -102,5 +105,12 @@ To add some context. Here's Cyclistic stations in chicago.
 *  Offer App benefits via geolocalization only available for annual members. Such as fitness recomendations, personalized diet, etc.
 *  A membership QR that only annual members can use to get discounts at partner healthy shops, bars and restaurants.
 *  A reward program for accumulated miles (merch, discounts, etc).</b>
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br>Here you can find cyclistic visualizations made in <a href="https://public.tableau.com/app/profile/ignacio1756/viz/GoogleDataAnalytics-Cyclisticcasestudy/Dashboard1#1">Tableau</a>.
+<br>I apreciatte any constructive yet respectful critique.
+<br> Give me a follow in <a href="https://twitter.com/ignaciogtan">Twitter</a> and <a href="https://www.linkedin.com/in/ignacio-gaitan-60b844237/">Linkedin</a> if you like to collab or just to build a network.
 
 
